@@ -40,7 +40,7 @@ export default function Home() {
               Submit Prototype
             </Link>
             <Link
-              href="#features"
+              href="/features"
               className="rounded-md border border-white/50 bg-white/10 backdrop-blur-sm px-8 py-3 text-base font-medium text-white transition-colors hover:bg-white/20"
             >
               Learn More
